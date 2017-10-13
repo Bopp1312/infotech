@@ -1,0 +1,10 @@
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Client.resources
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.CoreCompileInputs.cache
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb
+c:\users\quack attack\source\repos\WindowsFormsClient\WindowsFormsClient\obj\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
